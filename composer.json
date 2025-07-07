@@ -1,0 +1,15 @@
+{
+    "name": "adrian/tp-flightphp-crud",
+    "autoload": {
+        "psr-4": {
+            "Adrian\\TpFlightphpCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fluffy",
+            "email": "168590377+Rddn14@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
